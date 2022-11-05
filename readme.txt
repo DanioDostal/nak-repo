@@ -5,6 +5,4 @@
 2nd change in feature123
 rebase 1
 rebase 2
-rebase 3
-
-Ein Kommentar von Björn!
+rebase 3sss
